@@ -1,0 +1,143 @@
+{
+  "_note": "FICTIONAL corpus generated for teaching. Authors, venues and findings are invented.",
+  "papers": [
+    {
+      "id": "LIB-001",
+      "title": "Biostimulant effects on winter wheat yield: a multi-site field study",
+      "authors": [
+        "Rana Haddad",
+        "Tomas Lindqvist"
+      ],
+      "year": 2023,
+      "venue": "Journal of Field Agronomy",
+      "open_access": false,
+      "price_usd": 0.02,
+      "abstract": "We tested a seaweed-derived biostimulant on winter wheat across six farms. Treated plots yielded more grain on average, with the effect varying by soil pH.",
+      "full_text": "Across 180 plots on six farms, the biostimulant increased mean grain yield by 0.28 t/ha (95% CI 0.12 to 0.44). The effect was larger on soils with pH below 6.5. We found no effect on grain protein. Effects of this size are agronomically relevant: at current prices 0.3 t/ha covers the product cost roughly three times. We recommend multi-site designs because single-farm trials over- or under-estimate the effect depending on local soil."
+    },
+    {
+      "id": "LIB-002",
+      "title": "NitroGrow: a nitrogen-use-efficiency biostimulant. Greenhouse evidence",
+      "authors": [
+        "Mei Tanaka",
+        "Omar Farouk"
+      ],
+      "year": 2022,
+      "venue": "Plant Nutrition Letters",
+      "open_access": true,
+      "price_usd": 0.0,
+      "abstract": "Greenhouse pot trials of the NitroGrow formulation showed improved nitrogen uptake in wheat seedlings under moderate nitrogen supply.",
+      "full_text": "In 96 pots, NitroGrow raised shoot nitrogen uptake by 11 percent at moderate nitrogen supply and had no effect at high supply. Greenhouse effects typically shrink in the field; we expect a field yield effect well below 10 percent. Field trials with pre-registered analysis plans are needed."
+    },
+    {
+      "id": "LIB-003",
+      "title": "Data-entry errors in agricultural field trials: frequency and consequences",
+      "authors": [
+        "Grace Okafor",
+        "Lukas Brenner"
+      ],
+      "year": 2021,
+      "venue": "Research Integrity in Agriculture",
+      "open_access": false,
+      "price_usd": 0.02,
+      "abstract": "An audit of 40 field-trial datasets found that unit errors, duplicate rows and missing outcomes were common and often changed the study conclusion.",
+      "full_text": "We audited 40 datasets. 23 percent contained at least one unit error (most often kg/ha recorded as t/ha), 31 percent contained duplicated plot rows, and 45 percent had missing outcomes. In 6 of the 40 studies, correcting these errors reversed the statistical conclusion. A single kg/ha value in a t/ha column can inflate a treatment mean by orders of magnitude while still producing a nominally significant p-value because the variance also explodes. We recommend automated range checks, uniqueness checks on plot identifiers, and pre-registered exclusion rules."
+    },
+    {
+      "id": "LIB-004",
+      "title": "Welch's t-test should be the default for two-group comparisons",
+      "authors": [
+        "Ana Ribeiro"
+      ],
+      "year": 2020,
+      "venue": "Statistics for Experimenters",
+      "open_access": true,
+      "price_usd": 0.0,
+      "abstract": "Student's t-test assumes equal variances. Welch's version does not and loses little power when variances are equal. We argue it should be the default.",
+      "full_text": "Simulations across 10,000 scenarios show Welch's t-test controls the type I error rate when group variances differ, while Student's t-test can be badly miscalibrated with unequal group sizes. Report the mean difference with a confidence interval and an effect size, not only the p-value."
+    },
+    {
+      "id": "LIB-005",
+      "title": "Site-by-treatment interactions in on-farm fertilizer research",
+      "authors": [
+        "Daniel Mensah",
+        "Sofia Petrova",
+        "Kai Nakamura"
+      ],
+      "year": 2024,
+      "venue": "Journal of Field Agronomy",
+      "open_access": false,
+      "price_usd": 0.02,
+      "abstract": "Fertilizer responses varied substantially between farms. We show how to report site-level effects alongside the pooled estimate.",
+      "full_text": "Across 12 on-farm trials, the between-site standard deviation of the treatment effect was 0.15 t/ha, about half the mean effect. Pooled estimates remain useful, but authors should report site-level means and discuss heterogeneity as a limitation when the number of sites is small (fewer than 5)."
+    },
+    {
+      "id": "LIB-006",
+      "title": "Replication of biostimulant trials: a coordinated multi-lab study",
+      "authors": [
+        "Hannah Weber",
+        "Yusuf Alabi"
+      ],
+      "year": 2025,
+      "venue": "Open Agronomy",
+      "open_access": true,
+      "price_usd": 0.0,
+      "abstract": "Five independent labs repeated the same biostimulant protocol. Pooled effects were smaller than in the original single-site studies.",
+      "full_text": "The pooled effect across five labs was 0.21 t/ha, about 40 percent smaller than the original reports. Independent verification of the analysis pipeline caught two coding errors before publication. We recommend that a second team re-runs the analysis from raw data before submission."
+    },
+    {
+      "id": "LIB-007",
+      "title": "Economic thresholds for adopting yield-enhancing products in wheat",
+      "authors": [
+        "Pedro Alvarez"
+      ],
+      "year": 2023,
+      "venue": "Farm Economics Review",
+      "open_access": false,
+      "price_usd": 0.02,
+      "abstract": "We estimate the yield gain needed for biostimulants to pay off for wheat growers under typical European prices.",
+      "full_text": "With product and application costs of about 25 EUR/ha and wheat at 200 EUR/t, a gain of 0.125 t/ha breaks even. Gains around 0.3 t/ha give a return of roughly 2.4 to 1. Farmers adopt products when trials show consistent gains across sites."
+    },
+    {
+      "id": "LIB-008",
+      "title": "Reporting standards for agronomic field experiments (ARRIVE-Ag)",
+      "authors": [
+        "The ARRIVE-Ag Working Group"
+      ],
+      "year": 2022,
+      "venue": "Open Agronomy",
+      "open_access": true,
+      "price_usd": 0.0,
+      "abstract": "A checklist for reporting field experiments: design, randomization, exclusions, primary analysis, effect sizes, and limitations.",
+      "full_text": "Minimum reporting items: randomization method; number of plots per arm; all exclusions with counts and reasons; the pre-registered primary analysis; effect estimate with 95% CI; secondary analyses labelled as such; and a limitations section."
+    },
+    {
+      "id": "LIB-009",
+      "title": "Soil pH moderates nitrogen biostimulant response",
+      "authors": [
+        "Leila Karimi",
+        "Jonas Berg"
+      ],
+      "year": 2024,
+      "venue": "Soil and Crop Science",
+      "open_access": false,
+      "price_usd": 0.02,
+      "abstract": "Biostimulant response was strongest on slightly acidic soils and weak above pH 7.",
+      "full_text": "In a 3-year trial, the yield response to a nitrogen biostimulant fell from 0.42 t/ha at pH 6.0 to 0.08 t/ha at pH 7.2. Soil pH should be recorded and used as a covariate in secondary analyses."
+    },
+    {
+      "id": "LIB-010",
+      "title": "Large language model agents as research assistants: promise and pitfalls",
+      "authors": [
+        "Chen Wei",
+        "Fatima Zahra"
+      ],
+      "year": 2025,
+      "venue": "AI for Science Review",
+      "open_access": true,
+      "price_usd": 0.0,
+      "abstract": "LLM agents can run analyses and draft papers, but they repeat data errors confidently unless an independent verification step is built in.",
+      "full_text": "In a benchmark of 50 analysis tasks with planted data errors, agents without a verification step reported the erroneous result 64 percent of the time. Adding an independent verifier agent that re-ran quality checks from raw data cut this to 8 percent."
+    }
+  ]
+}
